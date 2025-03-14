@@ -12,16 +12,7 @@
 { "url": "https://pd.cybar.xyz/M9aQLBZu", "season": "1", "episode": 11, "category": "BD-Rip", "version": "2005" },
 { "url": "https://pd.cybar.xyz/RuWDRxSq", "season": "1", "episode": 12, "category": "BD-Rip", "version": "2005" },
 { "url": "https://pd.cybar.xyz/oVaFdNFx", "season": "1", "episode": 13, "category": "BD-Rip", "version": "2005" },
-{
-  "url": "https://pd.cybar.xyz/BZxNEiyZ",
-  "season": "0",
-  "episode": 2,
-  "category": "BD-Rip",
-  "version": "2005",
-  "displaySeason": "2",
-  "displayEpisode": 0
-}
-
+{ "url": "https://pd.cybar.xyz/BZxNEiyZ", "season": "0", "episode": 2, "category": "BD-Rip", "version": "2005", "displaySeason": "2", "displayEpisode": 0 }
 { "url": "https://pd.cybar.xyz/hkG3QaV8", "season": "2", "episode": 1, "category": "BD-Rip", "version": "2005" },
 { "url": "https://pd.cybar.xyz/KQm4UU8W", "season": "2", "episode": 2, "category": "BD-Rip", "version": "2005" },
 { "url": "https://pd.cybar.xyz/AfSncsfq", "season": "2", "episode": 3, "category": "BD-Rip", "version": "2005" },
