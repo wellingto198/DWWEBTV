@@ -292,6 +292,7 @@
         "version": "2005"
     },
     {
+        "url": "",
         "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E01.mkv",
         "season": "8",
         "episode": "1",
@@ -874,7 +875,8 @@
         "version": "2023"
     },
     {
-        "url": "https://pd.cybar.xyz/eBpWVwcA",
+        "url": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.2023.S02E01.1080p.DSNP.WEB.DL.DDP5.1.H.264.DMCA.Dual-ValeyardDW.mkv",
+        "url-4k": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.S02E01.Episode.1.2160p.DSNP.WEB-DL.DDP5.1.DV.HDR.H.265-DMCA.Dual-ValeyardDW.mkv",
         "season": "2",
         "episode": "1",
         "category": "WEB-DL",
