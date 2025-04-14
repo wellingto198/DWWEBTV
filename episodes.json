@@ -1,127 +1,83 @@
 {
-    "2005": {
-        "temporadas": {
-            "8": [
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 1
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E01.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 2
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E02.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 3
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E03.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 4
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E04.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 5
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E05.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 6
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E06.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 7
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E07.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 8
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E08.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 9
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E09.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 10
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E10.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 11
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E11.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 8,
-                        "episode": 12
-                    },
-                    "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
-                    "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E12.mkv"
-                }
-            ]
+  "2005": {
+    "temporadas": {
+      "8": [
+        {
+          "id_tmdb": { "season": 8, "episode": 1 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E01.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 2 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E02.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 3 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E03.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 4 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E04.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 5 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E05.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 6 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E06.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 7 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E07.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 8 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E08.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 9 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E09.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 10 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E10.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 11 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E11.mkv"
+        },
+        {
+          "id_tmdb": { "season": 8, "episode": 12 },
+          "url": "https://archive.org/download/s-08-e-01.-respire-fundo/S08E01.%20Respire%20fundo.mkv",
+          "url-remux": "https://archive.org/download/s-08-e-01_202504/S08E12.mkv"
         }
+      ]
     }
-},
-{
-    "2023": {
-        "temporadas": {
-            "2": [
-                {
-                    "id_tmdb": {
-                        "season": 0,
-                        "episode": 5
-                    },
-                    "url": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.Joy.to.the.World.2024.mkv"
-                },
-                {
-                    "id_tmdb": {
-                        "season": 2,
-                        "episode": 1
-                    },
-                    "url": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.2023.S02E01.1080p.DSNP.WEB.DL.DDP5.1.H.264.DMCA.Dual-ValeyardDW.mkv",
-                    "url-4k": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.S02E01.Episode.1.2160p.DSNP.WEB-DL.DDP5.1.DV.HDR.H.265-DMCA.Dual-ValeyardDW.mkv"
-                }
-            ]
+  },
+  "2023": {
+    "temporadas": {
+      "2": [
+        {
+          "id_tmdb": { "season": 0, "episode": 5 },
+          "url": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.Joy.to.the.World.2024.mkv"
+        },
+        {
+          "id_tmdb": { "season": 2, "episode": 1 },
+          "url": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.2023.S02E01.1080p.DSNP.WEB.DL.DDP5.1.H.264.DMCA.Dual-ValeyardDW.mkv",
+          "url-4k": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.S02E01.Episode.1.2160p.DSNP.WEB-DL.DDP5.1.DV.HDR.H.265-DMCA.Dual-ValeyardDW.mkv"
         }
+      ]
     }
+  }
 }
