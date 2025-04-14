@@ -68,11 +68,11 @@
   "2023": {
     "temporadas": {
       "2": [
-        {
+        {"numero": "0",
           "id_tmdb": { "season": 0, "episode": 5 },
           "url": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.Joy.to.the.World.2024.mkv"
         },
-        {
+        {"numero": "1",
           "id_tmdb": { "season": 2, "episode": 1 },
           "url": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.2023.S02E01.1080p.DSNP.WEB.DL.DDP5.1.H.264.DMCA.Dual-ValeyardDW.mkv",
           "url-4k": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.S02E01.Episode.1.2160p.DSNP.WEB-DL.DDP5.1.DV.HDR.H.265-DMCA.Dual-ValeyardDW.mkv"
