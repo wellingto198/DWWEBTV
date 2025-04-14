@@ -70,7 +70,8 @@
       "2": [
         {"numero": "0",
           "id_tmdb": { "season": 0, "episode": 5 },
-          "url": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.Joy.to.the.World.2024.mkv"
+          "url": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/Doctor.Who.Joy.to.the.World.2024.mkv",
+          "url-4k": "https://archive.org/download/doctor.-who.-s-02-e-01.-episode.-1.2160p.-dsnp.-web-dl.-ddp-5.1.-dv.-hdr.-h.-265/S02E00.%20Joy%20Para%20o%20Mundo%20-%204K.mkv"
         },
         {"numero": "1",
           "id_tmdb": { "season": 2, "episode": 1 },
