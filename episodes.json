@@ -77,6 +77,11 @@
           "id_tmdb": { "season": 2, "episode": 1 },
           "url": "https://drive.doctorwhowebtv.workers.dev/0:/Doctor.Who.2023/S02/Doctor.Who.2023.S02E01.1080p.DSNP.WEB.DL.DDP5.1.H.264.DMCA.Dual-ValeyardDW.mkv",
           "url-4k": "https://drive.doctorwhowebtv.workers.dev/0:/Doctor.Who.2023/S02/Doctor.Who.S02E01.Episode.1.2160p.DSNP.WEB-DL.DDP5.1.DV.HDR.H.265-DMCA.Dual-ValeyardDW.mkv"
+        },
+        {"numero": "2",
+          "id_tmdb": { "season": 2, "episode": 2 },
+          "url": "https://drive.doctorwhowebtv.workers.dev/0:/Doctor.Who.2023/S02/Doctor.Who.S02E02.Lux.1080p.DSNP.WEB-DL.H.264.DDP5.1-ValeyardDW.mkv",
+          "url-4k": "https://drive.doctorwhowebtv.workers.dev/0:/Doctor.Who.2023/S02/Doctor.Who.2023.S02E02.HDR.2160p.WEB.h265-ETHEL.Dual-ValeyardDW.mkv"
         }
       ]
     }
