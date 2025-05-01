@@ -1,9 +1,19 @@
 {
-  "thankYouMessage": "Agradecemos a todos os nossos apoiadores! Sem vocês isso não seria possível.",
+  "thankYouMessage": "Obrigado a todos os que nos apoiam!",
   "supporters": [
     {
-      "name": "Erick Allison",
+      "name": "João Silva",
       "icon": "fa-star",
+      "message": "Feliz por contribuir!"
+    },
+    {
+      "name": "Maria Souza",
+      "icon": "fa-heart",
+      "message": "Continuem com o ótimo trabalho!"
+    },
+    {
+      "name": "Carlos Lima",
+      "icon": "fa-user"
     }
   ]
 }
