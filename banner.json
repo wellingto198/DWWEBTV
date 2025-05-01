@@ -4,7 +4,7 @@
   "highlight": "Verifique sua caixa de spam",
   "footer": "E-mail enviado com instruções para colaborar",
   "link": {
-    "text": "Não recebeu? Clique aqui",
+    "text": "Não recebeu?<br>Clique aqui",
     "url": "mailto:doctorwhowebtv@gmail.com?subject=Não recebi o e-mail de apoio"
   }
 }
