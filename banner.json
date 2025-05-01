@@ -1,18 +1,10 @@
 {
-  "type": "email",
-  "content": {
-    "icon": "fa-envelope",
-    "title": "Agradecemos pelo seu apoio!",
-    "messages": [
-      "Verifique sua caixa de spam",
-      "E-mail enviado com instruções para colaborar"
-    ],
-    "actions": [
-      {
-        "text": "Não recebeu? Clique aqui",
-        "url": "mailto:doctorwhowebtv@gmail.com?subject=Não recebi o e-mail de apoio",
-        "type": "email"
-      }
-    ],
+  "icon": "fa-envelope",
+  "message": "Agradecemos pelo seu apoio!",
+  "highlight": "Verifique sua caixa de spam",
+  "footer": "E-mail enviado com instruções para colaborar",
+  "link": {
+    "text": "Não recebeu? Clique aqui",
+    "url": "mailto:doctorwhowebtv@gmail.com?subject=Não recebi o e-mail de apoio"
   }
 }
