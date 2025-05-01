@@ -1,6 +1,6 @@
 {
-  "icon": "fa-exclamation-circle",
-  "message": "Disponível para teste:",
-  "highlight": "S08 (2005) e S02 (2023)",
-  "footer": "Usando archive.org"
+  "icon": "fa-envelope",
+  "message": "Agradecemos pelo seu apoio!",
+  "highlight": "Verifique sua caixa de spam",
+  "footer": "E-mail enviado com instruções para colaborar"
 }
