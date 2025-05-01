@@ -1,1 +1,9 @@
-
+{
+  "thankYouMessage": "Agradecemos a todos os nossos apoiadores! Sem vocês isso não seria possível.",
+  "supporters": [
+    {
+      "name": "Erick Allison",
+      "icon": "fa-star",
+    }
+  ]
+}
