@@ -2,5 +2,9 @@
   "icon": "fa-envelope",
   "message": "Agradecemos pelo seu apoio!",
   "highlight": "Verifique sua caixa de spam",
-  "footer": "E-mail enviado com instruções para colaborar"
+  "footer": "E-mail enviado com instruções para colaborar",
+  "link": {
+    "text": "Não recebeu? Clique aqui",
+    "url": "mailto:doctorwhowebtv@gmail.com?subject=Não recebi o e-mail de apoio"
+  }
 }
