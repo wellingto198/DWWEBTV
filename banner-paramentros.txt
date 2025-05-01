@@ -1,1 +1,113 @@
+Parâmetros Globais do Banner
+Parâmetro	Tipo	Descrição	Valor Padrão
+type	string	Tipo do banner (define estilo e ícone padrão)	"info"
+dismissible	boolean	Se o banner pode ser fechado pelo usuário	true
+expiration	string	Data de expiração (YYYY-MM-DD) após qual o banner não será exibido	-
+Tipos de Banner Suportados
+json
+{
+  "type": ["info", "warning", "success", "error", "email", "custom"]
+}
+Parâmetros de Conteúdo (content)
+Parâmetro	Tipo	Descrição	Exemplo
+icon	string	Ícone do FontAwesome (sobrescreve o padrão do tipo)	"fa-envelope-open"
+title	string	Título principal em negrito	"Atualização disponível!"
+messages	array	Lista de mensagens (cada item vira um parágrafo)	["Verifique seu email", "..."]
+Parâmetros de Ação (actions)
+Parâmetro	Tipo	Descrição	Exemplo
+text	string	Texto do botão	"Ver agora"
+url	string	Link de destino	"https://exemplo.com"
+type	string	Estilo do botão (default, primary, secondary, email, custom)	"primary"
+target	string	Atributo target do link (_blank, _self)	"_blank"
+icon	string	Ícone do FontAwesome para o botão	"fa-external-link-alt"
+Exemplo Completo
+json
+{
+  "type": "warning",
+  "dismissible": true,
+  "expiration": "2024-12-31",
+  "content": {
+    "icon": "fa-triangle-exclamation",
+    "title": "Manutenção programada",
+    "messages": [
+      "O sistema ficará indisponível em:",
+      "25/10/2024 das 02:00 às 06:00 (UTC-3)"
+    ],
+    "actions": [
+      {
+        "text": "Ver calendário",
+        "url": "/calendario",
+        "type": "primary",
+        "icon": "fa-calendar-days"
+      },
+      {
+        "text": "Mais informações",
+        "url": "https://status.exemplo.com",
+        "target": "_blank",
+        "type": "default"
+      }
+    ]
+  }
+}
+Parâmetros Específicos por Tipo
+Banner de Email:
 
+json
+{
+  "type": "email",
+  "content": {
+    "icon": "fa-envelope-circle-check",
+    "title": "Confirmação necessária!",
+    "messages": [
+      "Por favor verifique sua caixa de entrada",
+      "Enviamos um link de confirmação para seu email"
+    ],
+    "actions": [
+      {
+        "text": "Reenviar email",
+        "url": "#reenviar",
+        "type": "email"
+      }
+    ]
+  }
+}
+Banner de Sucesso:
+
+json
+{
+  "type": "success",
+  "dismissible": false,
+  "content": {
+    "title": "Pagamento confirmado!",
+    "messages": [
+      "Sua assinatura foi ativada com sucesso",
+      "ID da transação: #ABC123XYZ"
+    ]
+  }
+}
+Sistema de Cores (CSS)
+css
+/* Cores base por tipo */
+--banner-info-color: var(--primary);
+--banner-warning-color: var(--secondary);
+--banner-success-color: #28a745;
+--banner-error-color: #dc3545;
+--banner-email-color: var(--primary);
+
+/* Opacidade do fundo */
+--banner-bg-opacity: 0.15;
+Hierarquia de Prioridades
+Parâmetros individuais sobrescrevem configurações do type
+
+Ícones customizados (content.icon) têm prioridade sobre ícones padrão
+
+Se expiration for definida e expirada, o banner não aparece
+
+Dicas de Uso
+Para banners temporários: sempre defina expiration
+
+Para ações críticas: use dismissible: false
+
+Mensagens longas: divida em múltiplos itens no array messages
+
+Ícones: use sempre a classe completa do FontAwesome (ex: "fa-regular fa-envelope")
