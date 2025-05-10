@@ -1,7 +1,7 @@
 {
   "thankYouMessage": "Obrigado a todos os nossos incríveis apoiadores! Sem vocês isso não seria possível.",
    "meta": 500,
-  "arrecadado": 183,
+  "arrecadado": 194,
   "supporters": [
     {
       "name": "Erick Allison",
@@ -90,6 +90,12 @@
     
         {
       "name": "Vinicius Soares",
+      "icon": "fa-star",
+      "message": ""
+        },
+    
+        {
+      "name": "Pablo Silva",
       "icon": "fa-star",
       "message": ""
         }
