@@ -95,7 +95,8 @@
         },
         {"numero": "5",
           "id_tmdb": { "season": 2, "episode": 5 },
-          "url": "https://drive.doctorwhowebtv.workers.dev/0:/Doctor.Who.2023/S02/Doctor.Who.S02E05.A.Historia.e.o.Motor.1080p.DSNP.WEB-DL.DDP5.1.H.264.Dual-ValeyardDW.mkv"
+          "url": "https://drive.doctorwhowebtv.workers.dev/0:/Doctor.Who.2023/S02/Doctor.Who.S02E05.A.Historia.e.o.Motor.1080p.DSNP.WEB-DL.DDP5.1.H.264.Dual-ValeyardDW.mkv",
+          "url-4k": "https://drive.doctorwhowebtv.workers.dev/0:/Doctor.Who.2023/S02/Doctor.Who.2023.S02E05.HDR.2160p.WEB.H265-SuccessfulCrab.Dual-ValeyardDW.mkv"
         }
       ]
     }
