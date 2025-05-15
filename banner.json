@@ -1,10 +1,6 @@
 {
-  "icon": "fa-envelope",
-  "message": "Agradecemos pelo seu apoio!",
-  "highlight": "Verifique sua caixa de spam",
-  "footer": "E-mail enviado com instruções para colaborar",
-  "link": {
-    "text": "Não recebeu?<br>Clique aqui",
-    "url": "mailto:doctorwhowebtv@gmail.com?subject=Não recebi o e-mail de apoio"
-  }
+  "icon": "fa-info-circle",
+  "message": "Agradecemos a todos que confiaram e apoiaram meu trabalho",
+  "highlight": "Não Chegamos na meta, mesmo com centenas de acessos todos dias",
+  "footer": "Para quem colaborou, não se preocupe a devolução já começou",
 }
