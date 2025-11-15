@@ -1,6 +1,6 @@
 /* Replace Logo with streamberry logo, this should be the last line in CSS */
 :root {
-    --logo: url("https://i.ibb.co/dscDyRyG/Gemini-Generated-Image-i4bo0gi4bo0gi4bo-removebg-preview.png" border="0"></a>");
+     --logo: url("https://i.ibb.co/dscDyRyG/Gemini-Generated-Image-i4bo0gi4bo0gi4bo-removebg-preview.png");
 }
 
 .pageTitleWithDefaultLogo {
